@@ -1,0 +1,11 @@
+{
+  "name": "evento-inscricao-simone",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "resend": "^1.0.0"
+  }
+}
